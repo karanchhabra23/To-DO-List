@@ -32,6 +32,8 @@ h1{
 .styling
 {
     color : lime;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:700;
 }
 .wrapper{
   background: black;
